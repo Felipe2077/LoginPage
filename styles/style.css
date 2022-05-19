@@ -183,6 +183,6 @@ footer span {
     display: flex;
     justify-content: center;
     flex-direction: column;
-    padding: 40px;
+    padding: 20px;
   }
 }
